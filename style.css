@@ -103,13 +103,9 @@
   z-index: 11;
 }
 
-.whe img:hover{
-    transform: scale(1.3,1.3);
-}
 
-.whe img:hover::after {
-    content:url("img/wheel.png");
-}
+
+
 
 .whe img{
  height: 150px;
